@@ -1,1 +1,9 @@
-
+#header {
+  text-align:center;
+}
+.icons {
+  text-align:center;
+}
+body {
+    background-image: url("background.jpg");
+}
