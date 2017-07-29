@@ -7,6 +7,9 @@
 body {
     background-image: url("background.jpg");
 }
+img {
+  max-width:100%;
+}
 .indexCard {
   font-family: 'Indie Flower', cursive;
   font-size: 170%;
