@@ -19,8 +19,12 @@ img {
   font-family: 'Work Sans', sans-serif;
 }
 .tape {
-  font-family:'Indie Flower', cursive;
+  font-family: 'Indie Flower', cursive;
   font-size: 200%;
+}
+.caption {
+  font-family: 'Indie Flower', cursive;
+  font-size: 100%;
 }
 .portfolio:hover {
    -webkit-transition: 0.3s;
