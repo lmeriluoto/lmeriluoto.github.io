@@ -21,10 +21,12 @@ img {
 .tape {
   font-family: 'Indie Flower', cursive;
   font-size: 200%;
+  text-align:center;
 }
 .caption {
   font-family: 'Indie Flower', cursive;
   font-size: 150%;
+  text-align:center;
 }
 .portfolio:hover {
    -webkit-transition: 0.3s;
