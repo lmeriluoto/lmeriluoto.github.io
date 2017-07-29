@@ -22,3 +22,13 @@ img {
   font-family:'Indie Flower', cursive;
   font-size: 200%;
 }
+.portfolio:hover {
+   -webkit-transition: 0.3s;
+   -moz-transition: 0.3s;
+   transition: 0.3s;
+   -webkit-transform: scale(1) rotate(5deg);
+   -moz-transform: scale(1) rotate(5deg);
+   -ms-transform: scale(1) rotate(5deg);
+   -o-transform: scale(1) rotate(5deg);
+   transform: scale(1) rotate(5deg);
+}
