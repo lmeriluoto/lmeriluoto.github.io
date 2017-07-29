@@ -31,4 +31,5 @@ img {
    -ms-transform: scale(1) rotate(5deg);
    -o-transform: scale(1) rotate(5deg);
    transform: scale(1) rotate(5deg);
+   box-shadow: 10px 10px yellow;
 }
