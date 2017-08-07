@@ -25,10 +25,10 @@ img {
 .contact:hover {
   background-image: url('contact2.png');
 }
-.portfolio {
+.port {
   width:50px;
 }
-.portfolio:hover {
+.port:hover {
   background-image: url('port2.png');
 }
 .indexCard {
