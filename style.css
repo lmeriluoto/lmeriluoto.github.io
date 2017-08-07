@@ -28,7 +28,13 @@ a:hover {
 .indexCard {
   font-family: 'Indie Flower', cursive;
   font-size: 150%;
+  background-image: url('index-card.jpg');
 }
+@media only screen and (max-width: 500px) {
+      .indexCard { 
+          background-image: url('postit.png');
+          font-size:100%;
+      }
 .specialWords {
   font-family: 'Work Sans', sans-serif;
 }
