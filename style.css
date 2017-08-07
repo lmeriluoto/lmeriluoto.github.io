@@ -33,13 +33,6 @@ a:hover {
   background-size: 500px 300px;
   background-position:center;
 }
-@media only screen and (max-width: 500px) {
-      .indexCard { 
-          background-image: url('postit.png');
-          background-size: 300px 261px;
-          font-size:100%;
-      }
-}
 .specialWords {
   font-family: 'Work Sans', sans-serif;
 }
@@ -62,4 +55,11 @@ a:hover {
    -ms-transform:scale(1.0) rotate(5deg);
    -o-transform:scale(1.0) rotate(5deg);
    transform:scale(1.0) rotate(5deg);
+}
+@media only screen and (max-width: 500px) {
+      .indexCard { 
+          background-image: url('postit.png');
+          background-size: 300px 261px;
+          font-size:100%;
+      }
 }
