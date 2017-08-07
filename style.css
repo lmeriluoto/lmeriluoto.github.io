@@ -30,13 +30,16 @@ a:hover {
   font-size: 150%;
   background-image: url('index-card.jpg');
   background-repeat: no-repeat;
+  background-size: 500px 300px;
   background-position:center;
 }
 @media only screen and (max-width: 500px) {
       .indexCard { 
           background-image: url('postit.png');
+          background-size: 300px 261px;
           font-size:100%;
       }
+}
 .specialWords {
   font-family: 'Work Sans', sans-serif;
 }
