@@ -6,6 +6,7 @@
 }
 body {
     background-image: url("background.jpg");
+    background-attachment:fixed;
 }
 img {
   max-width:100%;
@@ -56,10 +57,10 @@ a:hover {
    -o-transform:scale(1.0) rotate(5deg);
    transform:scale(1.0) rotate(5deg);
 }
-@media only screen and (max-width: 500px) {
+/*@media only screen and (max-width: 500px) {
       .indexCard { 
           background-image: url('postit.png');
           background-size: 300px 261px;
           font-size:100%;
       }
-}
+}*/
