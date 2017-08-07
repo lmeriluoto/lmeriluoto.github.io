@@ -13,32 +13,30 @@ img {
 }
 .about {
   padding-right:50px;
+  display:block;
   background:transparent url('about1.png') center top no-repeat;
   background-size: 50px auto;
 }
 .about:hover {
-  width:50px;
   background-image: url('about2.png');
   background-size: 50px auto;
 }
 .contact {
-  width:50px;
   padding-right:50px;
+  display:block;
   background:transparent url('contact1.png') center top no-repeat;
   background-size: 50px auto;
 }
 .contact:hover {
-  width:50px;
   background-image: url('contact2.png');
   background-size: 50px auto;
 }
 .port {
-  width:50px;
+  display:block;
   background:transparent url('port1.png') center top no-repeat;
   background-size: 50px auto;
 }
 .port:hover {
-  width:50px;
   background-image: url('port2.png');
   background-size: 50px auto;
 }
