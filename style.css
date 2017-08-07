@@ -4,7 +4,7 @@
 #icons {
   width:300px;
 }
-body {
+#background {
     background-image: url("background.jpg");
     background-attachment:fixed;
 }
