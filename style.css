@@ -11,6 +11,26 @@ img {
   max-width:100%;
   height:auto;
 }
+.about {
+  width:50px;
+  padding-right:50px;
+}
+.about:hover {
+  background-image: url('about2.png');
+}
+.contact {
+  width:50px;
+  padding-right:50px;
+}
+.contact:hover {
+  background-image: url('contact2.png');
+}
+.portfolio {
+  width:50px;
+}
+.portfolio:hover {
+  background-image: url('port2.png');
+}
 .indexCard {
   font-family: 'Indie Flower', cursive;
   font-size: 170%;
