@@ -17,6 +17,7 @@ img {
   background:transparent url('about1.png') center top no-repeat;
 }
 .about:hover {
+  width:50px;
   background-image: url('about2.png');
 }
 .contact {
@@ -25,6 +26,7 @@ img {
   background:transparent url('contact1.png') center top no-repeat;
 }
 .contact:hover {
+  width:50px;
   background-image: url('contact2.png');
 }
 .port {
@@ -32,9 +34,11 @@ img {
   background:transparent url('port1.png') center top no-repeat;
 }
 .port:hover {
+  width:50px;
   background-image: url('port2.png');
 }
 .indexCard {
+  
   font-family: 'Indie Flower', cursive;
   font-size: 170%;
 }
