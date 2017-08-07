@@ -11,35 +11,6 @@ img {
   max-width:100%;
   height:auto;
 }
-.about {
-  padding-right:50px;
-  display:inline;
-  background:transparent url('about1.png') center top no-repeat;
-  background-size: 50px auto;
-}
-.about:hover {
-  background-image: url('about2.png');
-  background-size: 50px auto;
-}
-.contact {
-  padding-right:50px;
-  display:inline;
-  background:transparent url('contact1.png') center top no-repeat;
-  background-size: 50px auto;
-}
-.contact:hover {
-  background-image: url('contact2.png');
-  background-size: 50px auto;
-}
-.port {
-  display:inline;
-  background:transparent url('port1.png') center top no-repeat;
-  background-size: 50px auto;
-}
-.port:hover {
-  background-image: url('port2.png');
-  background-size: 50px auto;
-}
 .indexCard {
   
   font-family: 'Indie Flower', cursive;
