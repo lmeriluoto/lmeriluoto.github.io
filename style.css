@@ -29,6 +29,8 @@ a:hover {
   font-family: 'Indie Flower', cursive;
   font-size: 150%;
   background-image: url('index-card.jpg');
+  background-repeat: no-repeat;
+  background-position:center;
 }
 @media only screen and (max-width: 500px) {
       .indexCard { 
