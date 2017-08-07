@@ -15,7 +15,8 @@ a:link {
   color: #3E3EE5;
 }
 a:active {
-  color: #3E3EE5;
+  color: #FF4847;
+  text-decoration:none;
 }
 a:visited {
   color: #3E3EE5;
