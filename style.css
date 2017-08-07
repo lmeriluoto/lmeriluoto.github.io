@@ -13,7 +13,7 @@ img {
 }
 .about {
   padding-right:50px;
-  display:block;
+  display:inline;
   background:transparent url('about1.png') center top no-repeat;
   background-size: 50px auto;
 }
@@ -23,7 +23,7 @@ img {
 }
 .contact {
   padding-right:50px;
-  display:block;
+  display:inline;
   background:transparent url('contact1.png') center top no-repeat;
   background-size: 50px auto;
 }
@@ -32,7 +32,7 @@ img {
   background-size: 50px auto;
 }
 .port {
-  display:block;
+  display:inline;
   background:transparent url('port1.png') center top no-repeat;
   background-size: 50px auto;
 }
