@@ -14,33 +14,33 @@ img {
 .about {
   padding-right:50px;
   background:transparent url('about1.png') center top no-repeat;
-  background-size: 50px;
+  background-size: 50px 50px;
 }
 .about:hover {
   width:50px;
   background-image: url('about2.png');
-  background-size: 50px;
+  background-size: 50px 50px;
 }
 .contact {
   width:50px;
   padding-right:50px;
   background:transparent url('contact1.png') center top no-repeat;
-  background-size: 50px;
+  background-size: 50px 50px;
 }
 .contact:hover {
   width:50px;
   background-image: url('contact2.png');
-  background-size: 50px;
+  background-size: 50px 50px;
 }
 .port {
   width:50px;
   background:transparent url('port1.png') center top no-repeat;
-  background-size: 50px;
+  background-size: 50px 50px;
 }
 .port:hover {
   width:50px;
   background-image: url('port2.png');
-  background-size: 50px;
+  background-size: 50px 50px;
 }
 .indexCard {
   
