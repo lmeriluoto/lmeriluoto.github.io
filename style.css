@@ -63,12 +63,12 @@ a:hover {
 }
 @media only screen and (max-width: 480px) {
       .indexCard { 
-          background-image: url('postit.png');
+          background-image: url('paper.jpg');
           font-size: 120%;
           width: 300px;
-          height: 289px;
+          height: 300px;
       }
       .indexp {
-        width: 220px;
+        width: 230px;
       }
 }
