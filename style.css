@@ -11,6 +11,19 @@ img {
   max-width:100%;
   height:auto;
 }
+a:link {
+  color: #3E3EE5;
+}
+a:active {
+  color: #3E3EE5;
+}
+a:visited {
+  color: #3E3EE5;
+}
+a:hover {
+  color: #FF4847;
+  text-decoration:none;
+}
 .indexCard {
   
   font-family: 'Indie Flower', cursive;
