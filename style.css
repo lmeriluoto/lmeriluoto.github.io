@@ -33,6 +33,9 @@ a:hover {
   background-size: 500px 300px;
   background-position:center;
 }
+.indexp {
+  width: 430px;
+}
 .specialWords {
   font-family: 'Work Sans', sans-serif;
 }
@@ -60,6 +63,9 @@ a:hover {
       .indexCard { 
           background-image: url('postit.png');
           background-size: 300px 261px;
-          font-size:100%;
+          font-size: 120%
+      }
+      .indexp {
+        width: 230px;
       }
 }
