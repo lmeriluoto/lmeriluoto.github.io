@@ -5,7 +5,7 @@
   width:300px;
 }
 body {
-    background-image: url("background.jpg");
+  background-image: url('background.jpg');
 }
 img {
   max-width:100%;
